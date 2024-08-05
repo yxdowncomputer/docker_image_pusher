@@ -5,6 +5,12 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 
-# maybe right...?
-ubuntu
-debian
+# right!
+ubuntu:latest
+debian:latest
+
+# right....?
+ubuntu:22.04
+ubuntu:18.04
+debian:bullseye
+debian:sid
